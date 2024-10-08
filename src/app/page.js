@@ -1,13 +1,14 @@
-import React from 'react'
+import Footer from "@/components/modules/footer/Footer";
+import Navbar from "@/components/modules/navbar/Navbar";
 
-function page() {
+export default async function Home() {
+ 
+
   return (
+    <>
+      <Navbar  />
 
-    <div>
-
-<p>jhkjk</p>
-  </div>
-  )
+      <Footer />
+    </>
+  );
 }
-
-export default page
