@@ -4,11 +4,11 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "صفحه اصلی - SET Coffee | فروشگاه اینترنتی قهوه ست",
-  description: "Sabzlearn coffee project with next.js v13",
+  title: "ashkan barber",
+  description: "ashkan barber start 2024",
 
   icons: {
-    icon: "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/36190/coffee-logo-clipart-md.png",
+    icon: "barber.png",
   },
 };
 
